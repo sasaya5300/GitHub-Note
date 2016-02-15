@@ -43,4 +43,5 @@
 
 
 ## 参考資料
+* [Git チュートリアル](https://www.atlassian.com/ja/git/tutorial/)
 * [サルでもわかるGit入門](http://www.backlog.jp/git-guide/)
