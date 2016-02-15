@@ -1,5 +1,4 @@
-SourceTree のインストール手順
-=========================
+# SourceTree のインストール手順
 ## ダウンロード
 * [ダウンロードページ](https://www.sourcetreeapp.com/) からダウンロードしてください
 

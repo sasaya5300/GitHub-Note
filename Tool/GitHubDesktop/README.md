@@ -1,2 +1,1 @@
-GitHub Desktop の使い方
-======================
+# GitHub Desktop の使い方

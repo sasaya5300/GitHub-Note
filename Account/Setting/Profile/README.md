@@ -20,7 +20,6 @@
 
 ### Company
 * 所属する会社名です。
-* `ミハル通信株式会社` か `Miharu Communications Inc.` にしておいてください。
 
 
 ### Location
